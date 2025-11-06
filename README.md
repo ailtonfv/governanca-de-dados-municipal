@@ -60,17 +60,40 @@ O **registro formal** continuará sendo realizado no **SEI** durante o trâmite 
 O GitHub funciona como **ferramenta de colaboração, transparência e memória técnica**.
 
 ---
-## 🧾 Modelos para Aquisição de Sistemas e Equipamentos
+## 🗂️ Modelos para Aquisição de Sistemas e Equipamentos
 
-A pasta **`/modelos`** contém documentos de referência para auxiliar na abertura de processos administrativos relacionados à contratação de soluções de TI.
+A pasta **/modelos** contém documentos de referência para apoiar a abertura de processos administrativos relacionados à contratação de soluções de Tecnologia da Informação.
 
-📄 **Modelo disponível:**
+### 📄 Modelo disponível
 
 | Arquivo | Finalidade | Última atualização |
 |--------|------------|-------------------|
-| `template_compra_software_hardware_TI.docx` | Modelo para requisição e justificativa de compra de softwares, licenças, equipamentos e serviços correlatos | 2025 |
+| `template_compra_software_hardware_TI.docx` | Requisição formal e justificativa técnica para compra de softwares, licenças, hardware, periféricos e serviços de TI | 2025 |
 
-> Utilize este modelo ao abrir processo de aquisição no **SEI**, anexando também justificativas técnicas, histórico da demanda e estimativa de custos.
+### 📝 Orientações de uso
+
+1. Baixe o arquivo `.docx`.
+2. Preencha:
+   - Unidade solicitante
+   - Descrição do objeto (o que está sendo adquirido)
+   - Justificativa técnica
+   - Benefícios esperados e impactos
+   - Critérios de pesquisa de preços
+3. Anexe o documento ao processo no **SEI** (ou sistema equivalente).
+4. Encaminhe para:
+   - Chefia imediata
+   - Unidade de Tecnologia da Informação
+   - Setor de Compras / Licitações (conforme o caso)
+
+### 🏛️ Princípios a observar
+
+- Necessidade pública devidamente justificada
+- Preferência por software livre quando tecnicamente viável
+- Aderência à **LGPD** (Lei 13.709/2018)
+- Compatibilidade com a infraestrutura municipal
+- Sustentabilidade financeira da contratação
+
+---
 
 
 
