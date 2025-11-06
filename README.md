@@ -60,6 +60,22 @@ O **registro formal** continuará sendo realizado no **SEI** durante o trâmite 
 O GitHub funciona como **ferramenta de colaboração, transparência e memória técnica**.
 
 ---
+## 🧾 Modelos para Aquisição de Sistemas e Equipamentos
+
+A pasta **`/modelos`** contém documentos de referência para auxiliar na abertura de processos administrativos relacionados à contratação de soluções de TI.
+
+📄 **Modelo disponível:**
+
+| Arquivo | Finalidade | Última atualização |
+|--------|------------|-------------------|
+| `template_compra_software_hardware_TI.docx` | Modelo para requisição e justificativa de compra de softwares, licenças, equipamentos e serviços correlatos | 2025 |
+
+> Utilize este modelo ao abrir processo de aquisição no **SEI**, anexando também justificativas técnicas, histórico da demanda e estimativa de custos.
+
+
+
+
+---
 
 ## 🗂 Estrutura deste Repositório
 docs/ Documentos oficiais e anexos
