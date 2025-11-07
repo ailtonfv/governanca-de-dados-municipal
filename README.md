@@ -11,7 +11,7 @@ Se você deseja sugerir ajustes, correções ou novas redações nas normas, mod
 **https://github.com/ailtonfv/governanca-de-dados-municipal/tree/main/colaboracao**
 
 Lá você encontrará:
-- Regras de participação
+- Diretrizes para participar
 - Como registrar sugestões
 - Como propor nova redação
 - Como acompanhar a consolidação no SEI
@@ -94,9 +94,18 @@ A pasta **/modelos** contém documentos de referência para apoiar a abertura de
 - Sustentabilidade financeira da contratação
 
 ---
+## Como Contribuir
+1. Faça um fork.
+2. Crie uma branch com o nome da proposta (ex: `melhoria-requisito-segurança`).
+3. Submeta um Pull Request descrevendo:
+   - Objetivo da alteração
+   - Fundamentação técnica
+   - Impactos esperados
 
-
-
+---
+## Licença
+Este repositório é público e regido por licenças abertas, permitindo reprodução,
+adaptação e reuso com citação da fonte.
 
 ---
 
