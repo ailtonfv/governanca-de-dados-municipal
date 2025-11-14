@@ -47,6 +47,9 @@ Este README orienta todas as Secretarias na abertura, justificativa, análise e 
 ---
 
 ## 4. Escopo das Aquisições
+
+´´´
+
 | Categoria | Exemplos |
 |----------|----------|
 | **Hardware** | desktops, notebooks, servidores, storage, switches, impressoras |
@@ -54,6 +57,7 @@ Este README orienta todas as Secretarias na abertura, justificativa, análise e 
 | **Serviços** | suporte técnico, instalação, migração, garantia estendida |
 | **Infraestrutura** | monitores, nobreaks, cabos, componentes de rede |
 
+´´´
 ---
 
 ## 5. Fluxo Padronizado de Solicitação
