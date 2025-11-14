@@ -6,7 +6,7 @@
 ## 📑 Sumário
 1. Introdução  
 2. Objetivos  
-3. Princípios Gerais  
+3. Princípios Gerais que norteiam esse documento 
 4. Escopo das Aquisições  
 5. Competências e Limites da TI (DITI e DSTI)  
 6. Fluxo Padronizado de Solicitação  
