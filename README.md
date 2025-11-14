@@ -106,7 +106,8 @@ Este README orienta todas as Secretarias na abertura, justificativa, análise e 
 ## 8. Modelos de Especificações Técnicas
 
 ### 8.1 Notebook padrão administrativo
-```md
+
+´´´
 **Equipamento:** Notebook corporativo  
 **Processador:** Intel i5 ou Ryzen 5  
 **Memória RAM:** 16 GB DDR4  
@@ -123,8 +124,7 @@ Copiar código
 **Relatórios:** Logs exportáveis  
 **Conformidade:** LGPD obrigatória  
 **SLA:** 99,5%
-```md
-
+´´´
 ## 9. Critérios Técnicos de Avaliação
 
 - Métricas de desempenho relevantes (benchmarks, capacidade de processamento, latência, IOPS).  
@@ -139,7 +139,7 @@ Copiar código
 
 ## 10. Riscos e Mitigações
 
-```
+´´´
 | Risco | Consequência | Mitigação |
 |-------|--------------|-----------|
 | Obsolescência técnica | Perda de desempenho e aumento de custo | Utilizar catálogo homologado do DITI |
@@ -148,7 +148,8 @@ Copiar código
 | Subdimensionamento | Lentidão, sobrecarga, gargalos | Plano de Capacidade do DITI |
 | Licenciamento inadequado | Irregularidade legal | Validação prévia do DITI e Jurídico |
 | Falta de documentação | Impossibilidade de auditoria | Registro documental padronizado |
-```
+
+´´´
 ---
 
 ## 11. Responsabilidades
@@ -176,7 +177,7 @@ Copiar código
 
 ## 12. Estrutura de Diretórios no GitHub
 
-```md
+´´´
 | Diretório / Arquivo | Descrição | Link |
 |----------------------|-----------|------|
 | `/` | Raiz do repositório | [Abrir](../) |
@@ -189,6 +190,9 @@ Copiar código
 | `/aquisições/formularios/requerimento_aquisicao.md` | Formulário de abertura de demanda | [Abrir](./formularios/requerimento_aquisicao.md) |
 | `/aquisições/pareceres/` | Pareceres técnicos emitidos pelo DITI | [Abrir](./pareceres/) |
 | `/aquisições/bibliografia/` | Referências e normas utilizadas | [Abrir](./bibliografia/) |
+
+´´´
+
 13. Referências Bibliográficas
 BRASIL. Lei nº 14.133/2021 – Nova Lei de Licitações.
 
