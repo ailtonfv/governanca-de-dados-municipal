@@ -58,6 +58,7 @@ Este README orienta todas as Secretarias na abertura, justificativa, análise e 
 | **Infraestrutura** | monitores, nobreaks, cabos, componentes de rede |
 
 ´´´
+
 ---
 
 ## 5. Fluxo Padronizado de Solicitação
@@ -122,6 +123,7 @@ Copiar código
 **Relatórios:** Logs exportáveis  
 **Conformidade:** LGPD obrigatória  
 **SLA:** 99,5%
+```md
 
 ## 9. Critérios Técnicos de Avaliação
 
@@ -137,6 +139,7 @@ Copiar código
 
 ## 10. Riscos e Mitigações
 
+```
 | Risco | Consequência | Mitigação |
 |-------|--------------|-----------|
 | Obsolescência técnica | Perda de desempenho e aumento de custo | Utilizar catálogo homologado do DITI |
@@ -145,7 +148,7 @@ Copiar código
 | Subdimensionamento | Lentidão, sobrecarga, gargalos | Plano de Capacidade do DITI |
 | Licenciamento inadequado | Irregularidade legal | Validação prévia do DITI e Jurídico |
 | Falta de documentação | Impossibilidade de auditoria | Registro documental padronizado |
-
+```
 ---
 
 ## 11. Responsabilidades
